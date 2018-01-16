@@ -12,12 +12,12 @@ Flyweight
 Interpreter
 Iterator
 Mediator
-Memento
+Memento +
 Observer
 Prototype +
 Proxy +
 Singleton +
 State +
 Strategy +
-Template Method
+Template Method +
 Visitor
