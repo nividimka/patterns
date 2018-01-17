@@ -1,17 +1,17 @@
 Abstract Factory
-Adapter
+Adapter +
 Bridge +
-Builder
+Builder +
 Chain of Responsibility
 Command
 Composite
-Decorator
+Decorator  +
 Facade +
 Factory Method +
 Flyweight
 Interpreter
-Iterator
-Mediator
+Iterator +
+Mediator +
 Memento +
 Observer
 Prototype +
