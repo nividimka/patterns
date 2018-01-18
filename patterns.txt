@@ -9,15 +9,15 @@ Decorator  +
 Facade +
 Factory Method +
 Flyweight
-Interpreter
+Interpreter +
 Iterator +
 Mediator +
 Memento +
-Observer
+Observer +
 Prototype +
 Proxy +
 Singleton +
 State +
 Strategy +
 Template Method +
-Visitor
+Visitor +
